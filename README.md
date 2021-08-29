@@ -20,9 +20,9 @@ website
 ## 有问题反馈
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
 
-* 邮件(dev.hubo#gmail.com, 把#换成@)
-* 微信:jserme
-* weibo: [@草依山](http://weibo.com/ihubo)
+* 邮件(dingwei26@chinaunicom.cn)
+* 微信:dwbj19990409
+* weibo: [@丁伟](http://weibo.com/ding)
 * twitter: [@ihubo](http://twitter.com/ihubo)
 
 ## 捐助开发者
@@ -37,7 +37,7 @@ website
 
 ```javascript
 var ihubo = {
-  nickName  : "草依山",
-  site : "http://jser.me"
+  nickName  : "丁伟",
+  site : "http://call.me"
 }
 ```
